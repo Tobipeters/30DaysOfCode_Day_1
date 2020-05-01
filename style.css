@@ -1,0 +1,35 @@
+body{
+    background: #6A6FFC;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.counter{
+    margin: 120px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.number{
+    width: 150px;
+    height: 150px;
+    font-size: 34px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0 25px;
+}
+.number, .minus, .plus{
+    border-radius: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+}
+.minus, .plus{
+    width: 80px;
+    height: 80px;
+    font-size: 28px;
+    background: #868CF7;
+    color: #fff;
+}
+.operator{
+
+}
