@@ -3,6 +3,11 @@ body{
     color: #fff;
     font-family: 'Montserrat', sans-serif;
 }
+.title{
+    margin: 100px auto 0; 
+    text-align:center; 
+    font-size: 28px;
+}
 .counter{
     margin: 120px 0;
     display: flex;
